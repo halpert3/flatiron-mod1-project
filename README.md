@@ -25,9 +25,7 @@ Based on popularity, enthusiasm, profitability, and annual trends, Microsoft sho
 
 To achieve the highest likely returns on investment, the studio should expect to spend between $100 and $200 million per film.  
 
-The following are some important findings that I focused on. The full report can be found 
-
-[here]: https://docs.google.com/presentation/d/1vzF2EhyMntMOL69ZyCw19nTMdsNGa1JBQ2zpAdBpQPw/edit?usp=sharing.
+The following are some important findings that I focused on. The full report can be found [here] (https://docs.google.com/presentation/d/1vzF2EhyMntMOL69ZyCw19nTMdsNGa1JBQ2zpAdBpQPw/edit?usp=sharing).
 
 ## Popularity
 
