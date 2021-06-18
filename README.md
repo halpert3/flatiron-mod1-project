@@ -4,7 +4,7 @@
 
 
 
-Created for a data science course with Flatiron School, the idea behind this project was to take the role as an advisor to Microsoft as it was launching a new movie studio, and it was the task of my partner and me to make recommendations to the executive team. 
+Created for a data science course with Flatiron School, the idea behind this project was to take the role as an advisor to Microsoft as it was launching a new movie studio, and my partner and I had the task to make recommendations to the executive team. 
 
 
 Link to [Medium blog post about this project.](https://halpert3.medium.com/advice-for-a-new-movie-studio-a91887a0e7fd)
